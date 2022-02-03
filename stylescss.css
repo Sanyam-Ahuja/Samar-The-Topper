@@ -1,0 +1,29 @@
+.whole{
+    background-color: #fcf1f1;
+}
+.head{
+    font-family: 'Caveat', cursive;
+    font-weight: bolder;
+    text-align: center;
+}
+#p{
+    font-weight: bold;
+}
+.imag{
+    height: 100px;
+
+}
+.new{
+    background-color: #fcf1f1;
+}
+.p{
+    font-weight: bold;
+    padding: 20px;
+    font-size: xx-large;
+}
+#head{
+    font-family: 'Caveat', cursive;
+    font-weight: bolder;
+    font-size: 120px;
+    text-align: center;
+}
